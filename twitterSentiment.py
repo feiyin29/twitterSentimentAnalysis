@@ -289,5 +289,3 @@ elements[10].style.backgroundColor = '#0949B6'
     height=0,
     width=0,
 )
-
-
